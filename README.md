@@ -4,70 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>📚 Bookstore API</title>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-    body {
-      font-family: Arial, sans-serif;
-      background: #f2f5f9;
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    header {
-      background-color: #34495e;
-      color: white;
-      text-align: center;
-      padding: 2rem 1rem;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2rem;
-    }
-    header p {
-      margin-top: 0.5rem;
-      color: #ddd;
-    }
-    .container {
-      max-width: 960px;
-      margin: auto;
-      padding: 2rem 1rem;
-    }
-    h2 {
-      color: #2c3e50;
-      border-left: 5px solid #3498db;
-      padding-left: 10px;
-      margin-top: 2rem;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    ul li::before {
-      content: "✔️ ";
-      margin-right: 0.4rem;
-    }
-    .code-block {
-      background: #272822;
-      color: #f8f8f2;
-      padding: 1rem;
-      font-family: monospace;
-      border-radius: 5px;
-      margin-top: 1rem;
-      overflow-x: auto;
-    }
-    footer {
-      background: #34495e;
-      color: #fff;
-      text-align: center;
-      padding: 1rem;
-      margin-top: 2rem;
-    }
-    a {
-      color: #3498db;
-    }
-  </style>
+
 </head>
 <body>
 
